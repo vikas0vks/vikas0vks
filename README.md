@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" width="100%" alt="Vikas Maurya — security researcher, bug bounty hunter, builder" />
+  <img src="banner.svg" width="100%" alt="Vikas Maurya, security researcher, bug bounty hunter, builder" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Bug bounty hunter & AppSec researcher, focused on <b>business logic and access control</b> — and building the tooling that makes testing faster.
+  Bug bounty hunter & AppSec researcher, focused on <b>business logic and access control</b>. I also build the tooling that makes testing faster.
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ## About
 
-I research web application security and hunt bugs — the flaws that hide in how an application is
+I research web application security and hunt bugs: the flaws that hide in how an application is
 *meant* to work.
 
 - I break applications by testing their **logic**, not just their inputs
@@ -34,7 +34,7 @@ I research web application security and hunt bugs — the flaws that hide in how
 
 | Project | What it is |
 | --- | --- |
-| [SastraCode](https://github.com/vikas0vks/sastracode-builds) | A coding assistant for Android — reads and edits projects, runs commands, and manages long tasks on-device. Installable builds are public; source is private. |
+| [SastraCode](https://github.com/vikas0vks/sastracode-builds) | A coding assistant for Android. It reads and edits projects, runs commands, and manages long tasks on-device. Installable builds are public; source is private. |
 | [JSNinja](https://github.com/vikas0vks/JSNinja) | Extracts URLs and secrets from JavaScript files. Built for pentesters and bug bounty hunters analysing JS at scale. |
 | [Pentabar](https://github.com/vikas0vks/pentabar) | A web security and penetration testing toolkit for Android. |
 
