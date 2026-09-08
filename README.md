@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/vikas0vks"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://in.linkedin.com/in/vikas0vks"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@vikas0vks"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://www.instagram.com/vikas0vks/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:vikas0vks@users.noreply.github.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/vikas0vks"><img src="https://img.shields.io/badge/X-000000?cb=2&style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://in.linkedin.com/in/vikas0vks"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?cb=2&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@vikas0vks"><img src="https://img.shields.io/badge/Medium-12100E?cb=2&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://www.instagram.com/vikas0vks/"><img src="https://img.shields.io/badge/Instagram-E4405F?cb=2&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:vikas0vks@users.noreply.github.com"><img src="https://img.shields.io/badge/Email-D14836?cb=2&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -27,14 +27,14 @@
 ## Toolbox
 
 <p align="center">
-  <a href="https://github.com/vikas0vks/JSNinja"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
-  <img src="https://skillicons.dev/icons?i=android" alt="Android" />
-  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
-  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" />
+  <a href="https://github.com/vikas0vks/JSNinja"><img src="https://skillicons.dev/icons?cb=2&i=js" alt="JavaScript" /></a>
+  <img src="https://skillicons.dev/icons?cb=2&i=android" alt="Android" />
+  <img src="https://skillicons.dev/icons?cb=2&i=kotlin" alt="Kotlin" />
+  <img src="https://skillicons.dev/icons?cb=2&i=java" alt="Java" />
+  <img src="https://skillicons.dev/icons?cb=2&i=python" alt="Python" />
+  <img src="https://skillicons.dev/icons?cb=2&i=rust" alt="Rust" />
+  <img src="https://skillicons.dev/icons?cb=2&i=bash" alt="Bash" />
+  <img src="https://skillicons.dev/icons?cb=2&i=cloudflare" alt="Cloudflare" />
 </p>
 
 ## Projects
@@ -51,15 +51,15 @@ Cloudflare Workers) and ongoing research. A [bug bounty methodology guide](https
 ## GitHub
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/vikas0vks?style=for-the-badge&logo=github&label=followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/vikas0vks?cb=2&style=for-the-badge&logo=github&label=followers" alt="GitHub followers" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/vikas0vks?style=for-the-badge&logo=github&label=stars" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/stars/vikas0vks?cb=2&style=for-the-badge&logo=github&label=stars" alt="GitHub stars" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=vikas0vks&theme=github-dark&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikas0vks&theme=default&hide_border=true" alt="GitHub streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=vikas0vks&theme=github-dark&cb=2" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikas0vks&theme=default&cb=2" alt="GitHub streak" />
   </picture>
 </p>
 
