@@ -1,57 +1,53 @@
 <svg width="1280" height="300" viewBox="0 0 1280 300" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="300" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0B1020"/>
-      <stop offset="1" stop-color="#111A33"/>
+      <stop stop-color="#070B10"/>
+      <stop offset="0.5" stop-color="#0C1416"/>
+      <stop offset="1" stop-color="#0A1022"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1280" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#5B8CFF"/>
-      <stop offset="0.5" stop-color="#8B7CFF"/>
-      <stop offset="1" stop-color="#C77DFF"/>
-    </linearGradient>
-    <linearGradient id="name" x1="0" y1="0" x2="640" y2="0" gradientUnits="userSpaceOnUse">
+    <linearGradient id="word" x1="0" y1="0" x2="760" y2="0" gradientUnits="userSpaceOnUse">
       <stop stop-color="#FFFFFF"/>
-      <stop offset="1" stop-color="#DCE4FF"/>
+      <stop offset="0.7" stop-color="#D9FBE9"/>
+      <stop offset="1" stop-color="#6EE7B7"/>
     </linearGradient>
-    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1050 60) rotate(90) scale(380)">
-      <stop stop-color="#6C8CFF" stop-opacity="0.28"/>
-      <stop offset="1" stop-color="#6C8CFF" stop-opacity="0"/>
+    <radialGradient id="glowG" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(400 160) rotate(0) scale(430)">
+      <stop stop-color="#10B981" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#10B981" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1180 260) rotate(180) scale(300)">
-      <stop stop-color="#C77DFF" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#C77DFF" stop-opacity="0"/>
+    <radialGradient id="glowV" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1150 80) rotate(0) scale(330)">
+      <stop stop-color="#A78BFA" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
     </radialGradient>
-    <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse">
-      <path d="M 56 0 L 0 0 0 56" fill="none" stroke="#8FA3D9" stroke-opacity="0.06" stroke-width="1"/>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M 44 0 L 0 0 0 44" fill="none" stroke="#10B981" stroke-opacity="0.05" stroke-width="1"/>
     </pattern>
   </defs>
 
   <rect width="1280" height="300" fill="url(#bg)"/>
   <rect width="1280" height="300" fill="url(#grid)"/>
-  <rect width="1280" height="300" fill="url(#glow1)"/>
-  <rect width="1280" height="300" fill="url(#glow2)"/>
+  <rect width="1280" height="300" fill="url(#glowG)"/>
+  <rect width="1280" height="300" fill="url(#glowV)"/>
 
-  <!-- left accent bar -->
-  <rect x="0" y="0" width="6" height="300" fill="url(#accent)"/>
-
-  <!-- code decoration, right side -->
-  <g font-family="Consolas, monospace" fill="#8FA3D9" fill-opacity="0.5">
-    <text x="940" y="70" font-size="20">const findBug = async () =&gt; {{ '{' }}</text>
-    <text x="960" y="102" font-size="20">scope: ['auth', 'logic'],</text>
-    <text x="960" y="134" font-size="20">while (true) await report();</text>
-    <text x="940" y="166" font-size="20">{{ '}' }};</text>
+  <!-- terminal caret block, left -->
+  <g font-family="Consolas, monospace">
+    <text x="66" y="104" font-size="21" fill="#34D399">&gt; whoami</text>
+    <text x="86" y="136" font-size="21" fill="#6EE7B7">security researcher</text>
+    <text x="66" y="176" font-size="21" fill="#34D399">&gt; focus</text>
+    <text x="86" y="208" font-size="21" fill="#6EE7B7">business logic · access control</text>
+    <text x="66" y="248" font-size="21" fill="#34D399">&gt; <tspan fill="#6EE7B7">_</tspan></text>
   </g>
 
-  <!-- content -->
-  <g font-family="Consolas, Consolas, monospace">
-    <text x="72" y="96" font-size="22" fill="#8FA3D9">// hello, i'm</text>
+  <!-- identity block, right -->
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="700" y="150" font-size="17" fill="#8B9BB4">I am</text>
+    <text x="700" y="196" font-size="64" font-weight="700" fill="url(#word)">Vikas Maurya</text>
   </g>
-  <text x="68" y="172" font-family="Segoe UI, Arial, sans-serif" font-size="86" font-weight="700" fill="url(#name)">Vikas Maurya</text>
-  <text x="72" y="216" font-family="Consolas, Consolas, monospace" font-size="24" fill="#A9B7E6">security researcher · bug bounty hunter · builder</text>
-
-  <g>
-    <rect x="72" y="240" width="196" height="34" rx="17" fill="#1B2547"/>
-    <text x="88" y="263" font-family="Consolas, Consolas, monospace" font-size="19" fill="#8B7CFF">@vikas0vks</text>
-    <circle cx="252" cy="257" r="4" fill="#5B8CFF"/>
+  <g font-family="Consolas, monospace">
+    <text x="702" y="236" font-size="22" fill="#10B981">@vikas0vks</text>
+    <rect x="862" y="215" width="190" height="34" rx="17" fill="none" stroke="#10B981" stroke-opacity="0.5"/>
+    <text x="878" y="237" font-size="17" fill="#6EE7B7">bug bounty hunter</text>
+  </g>
+  <g font-family="Consolas, monospace" fill="#4ADE80" fill-opacity="0.35" font-size="60" font-weight="700">
+    <text x="1212" y="280" text-anchor="end">{ }</text>
   </g>
 </svg>
