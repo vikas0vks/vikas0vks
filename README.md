@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Vikas Maurya — security researcher, bug bounty hunter, and builder" />
+  <img src="assets/hero.svg" width="100%" alt="Vikas Maurya, security researcher and software builder" />
 </p>
 
 <p align="center">
@@ -10,28 +10,28 @@
 </p>
 
 <p align="center">
-  I study the seams where <strong>identity</strong>, <strong>permissions</strong>, <strong>state</strong>, and <strong>business rules</strong> stop agreeing.<br />
-  The useful parts of that research become practical security tools and polished products.
+  Security researcher focused on business logic, access control, and web application testing.<br />
+  I also build useful Android and desktop tools.
 </p>
 
 <p align="center">
-  <sub>Security findings through HackerOne · Hall of Fame recognition from Google and OZiva</sub>
+  <sub>Security findings reported through HackerOne. Recognition from Google and OZiva.</sub>
 </p>
 
-## Research lens
+## How I test
 
-<img src="assets/research-lens.svg" width="100%" alt="Research workflow: map the system, challenge assumptions, and prove impact" />
+<img src="assets/research-lens.svg" width="100%" alt="Understand the app, test the weak points, and write a clear report" />
 
 ## Featured builds
 
 <p align="center">
-  <a href="https://github.com/vikas0vks/suvishare"><img src="assets/project-suvishare.svg" width="49%" alt="Suvi Share — fast private cross-platform LAN file sharing" /></a>
-  <a href="https://github.com/vikas0vks/JSNinja"><img src="assets/project-jsninja.svg" width="49%" alt="JSNinja — JavaScript reconnaissance for security researchers" /></a>
+  <a href="https://github.com/vikas0vks/suvishare"><img src="assets/project-suvishare.svg" width="49%" alt="Suvi Share, fast private file sharing over a local network" /></a>
+  <a href="https://github.com/vikas0vks/JSNinja"><img src="assets/project-jsninja.svg" width="49%" alt="JSNinja, JavaScript research tool for security testing" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/vikas0vks/sastracode-builds"><img src="assets/project-sastracode.svg" width="49%" alt="SastraCode — an on-device Android coding workspace" /></a>
-  <a href="https://github.com/vikas0vks/pentabar"><img src="assets/project-pentabar.svg" width="49%" alt="PentaBar — an Android web security toolkit" /></a>
+  <a href="https://github.com/vikas0vks/sastracode-builds"><img src="assets/project-sastracode.svg" width="49%" alt="SastraCode, an Android coding workspace" /></a>
+  <a href="https://github.com/vikas0vks/pentabar"><img src="assets/project-pentabar.svg" width="49%" alt="PentaBar, a web security toolkit for Android" /></a>
 </p>
 
 ## Systems I work with
@@ -40,13 +40,9 @@
 
 ## How I work
 
-- **Model the complete workflow** before touching payloads: happy path, inverse operations, state changes, and cleanup behavior.
-- **Challenge hidden assumptions** such as never-empty states, always-valid inputs, and single-path flows.
-- **Test the boundaries** across roles, accounts, bulk operations, races, and asynchronous transitions.
-- **Report only demonstrated impact** with reproducible evidence and remediation that addresses the root cause.
+- Understand how the feature works before testing edge cases.
+- Check related actions, user roles, account states, and access rules.
+- Test with controlled accounts and keep clear evidence.
+- Report only what can be reproduced and verified.
 
-<p align="center">
-  <a href="https://medium.com/@vikas0vks/list/methodology-3aa7c4183b7b"><strong>Read the bug bounty methodology →</strong></a>
-</p>
-
-<img src="assets/footer.svg" width="100%" alt="Map the state. Break the assumption. Prove the impact." />
+<img src="assets/footer.svg" width="100%" alt="Understand the app. Test the rules. Show the impact." />

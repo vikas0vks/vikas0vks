@@ -4,6 +4,5 @@
   <circle cx="24" cy="24" r="2.5" fill="#7DD3FC"/>
   <path d="M21.5 29H26.5V43H21.5V29ZM30 29H34.8V31C36 29.5 37.6 28.5 40 28.5C44.5 28.5 46 31.5 46 36V43H41V36.8C41 34.6 40.4 33 38.2 33C35.9 33 35 34.6 35 37V43H30V29Z" fill="#7DD3FC"/>
   <text x="66" y="29" font-family="Segoe UI, Arial" font-size="13" font-weight="700" fill="#E0F2FE">LINKEDIN</text>
-  <text x="66" y="46" font-family="Consolas, monospace" font-size="12" fill="#7DD3FC">/in/vikas0vks</text>
-  <path d="M266 27L272 32L266 37" stroke="#38BDF8" stroke-opacity=".7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="66" y="46" font-family="Consolas, monospace" font-size="12" fill="#7DD3FC">vikas0vks</text>
 </svg>

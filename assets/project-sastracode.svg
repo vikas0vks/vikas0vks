@@ -8,12 +8,12 @@
     <path d="M22 28L27 33L36 23M25 44H33" stroke="#C4B5FD" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
   <text x="108" y="58" font-family="Segoe UI, Arial" font-size="26" font-weight="750" fill="#F8FAFC">SastraCode</text>
-  <text x="108" y="83" font-family="Consolas, monospace" font-size="13" letter-spacing="1.6" fill="#A5B4FC">ON-DEVICE CODING WORKSPACE</text>
-  <text x="32" y="126" font-family="Segoe UI, Arial" font-size="16" fill="#CBD5E1">Read and edit projects, run commands, and manage</text>
-  <text x="32" y="151" font-family="Segoe UI, Arial" font-size="16" fill="#CBD5E1">long development tasks directly from Android.</text>
+  <text x="108" y="83" font-family="Consolas, monospace" font-size="13" letter-spacing="1.6" fill="#A5B4FC">ANDROID CODING WORKSPACE</text>
+  <text x="32" y="126" font-family="Segoe UI, Arial" font-size="16" fill="#CBD5E1">Edit projects, run commands, and work on code</text>
+  <text x="32" y="151" font-family="Segoe UI, Arial" font-size="16" fill="#CBD5E1">from an Android device.</text>
   <g transform="translate(32 177)" font-family="Consolas, monospace" font-size="12">
     <rect width="82" height="28" rx="14" fill="#17172D"/><text x="16" y="18" fill="#C7D2FE">ANDROID</text>
     <rect x="92" width="76" height="28" rx="14" fill="#1B1730"/><text x="108" y="18" fill="#DDD6FE">KOTLIN</text>
-    <text x="484" y="19" fill="#A5B4FC">VIEW BUILDS   ↗</text>
+    <text x="500" y="19" fill="#A5B4FC">OPEN BUILDS</text>
   </g>
 </svg>

@@ -2,7 +2,6 @@
   <rect x="1" y="1" width="288" height="62" rx="16" fill="#090D13" stroke="#475569" stroke-opacity=".55"/>
   <rect x="13" y="12" width="40" height="40" rx="12" fill="#111827"/>
   <path d="M23 22L41.5 43M41 22L23 43" stroke="#F8FAFC" stroke-width="3" stroke-linecap="round"/>
-  <text x="66" y="29" font-family="Segoe UI, Arial" font-size="13" font-weight="700" fill="#F8FAFC">X / TWITTER</text>
-  <text x="66" y="46" font-family="Consolas, monospace" font-size="12" fill="#94A3B8">@vikas0vks</text>
-  <path d="M266 27L272 32L266 37" stroke="#64748B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="66" y="29" font-family="Segoe UI, Arial" font-size="13" font-weight="700" fill="#F8FAFC">X</text>
+  <text x="66" y="46" font-family="Consolas, monospace" font-size="12" fill="#94A3B8">vikas0vks</text>
 </svg>

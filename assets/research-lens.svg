@@ -13,13 +13,13 @@
     <circle cx="55" cy="48" r="28" fill="#10B981" fill-opacity=".14"/>
     <circle cx="53" cy="46" r="10" stroke="#6EE7B7" stroke-width="2.5"/>
     <path d="M61 54L70 63" stroke="#6EE7B7" stroke-width="2.5" stroke-linecap="round"/>
-    <text x="98" y="43" font-family="Consolas, monospace" font-size="13" letter-spacing="2" fill="#6EE7B7">01 / MAP</text>
-    <text x="98" y="68" font-size="21" font-weight="700" fill="#F8FAFC">Understand the system</text>
-    <text x="30" y="119" font-size="16" fill="#CBD5E1">Trace the complete workflow, related</text>
-    <text x="30" y="143" font-size="16" fill="#CBD5E1">endpoints, roles, data movement, and</text>
-    <text x="30" y="167" font-size="16" fill="#CBD5E1">every meaningful state transition.</text>
+    <text x="98" y="43" font-family="Consolas, monospace" font-size="13" letter-spacing="2" fill="#6EE7B7">STEP 01</text>
+    <text x="98" y="68" font-size="21" font-weight="700" fill="#F8FAFC">Understand the app</text>
+    <text x="30" y="119" font-size="16" fill="#CBD5E1">Map the main flow, user roles, requests,</text>
+    <text x="30" y="143" font-size="16" fill="#CBD5E1">and state changes before starting the</text>
+    <text x="30" y="167" font-size="16" fill="#CBD5E1">security tests.</text>
     <rect x="30" y="201" width="144" height="30" rx="15" fill="#10231D"/>
-    <text x="48" y="221" font-family="Consolas, monospace" font-size="12" fill="#A7F3D0">SURFACE → STATE</text>
+    <text x="48" y="221" font-family="Consolas, monospace" font-size="12" fill="#A7F3D0">FLOW AND STATE</text>
   </g>
 
   <g transform="translate(453 28)" font-family="Segoe UI, Arial, sans-serif">
@@ -27,25 +27,25 @@
     <circle cx="55" cy="48" r="28" fill="#14B8A6" fill-opacity=".14"/>
     <path d="M42 55L50 47L57 54L69 40" stroke="#5EEAD4" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
     <circle cx="42" cy="55" r="2.5" fill="#5EEAD4"/><circle cx="50" cy="47" r="2.5" fill="#5EEAD4"/><circle cx="57" cy="54" r="2.5" fill="#5EEAD4"/><circle cx="69" cy="40" r="2.5" fill="#5EEAD4"/>
-    <text x="98" y="43" font-family="Consolas, monospace" font-size="13" letter-spacing="2" fill="#5EEAD4">02 / CHALLENGE</text>
-    <text x="98" y="68" font-size="21" font-weight="700" fill="#F8FAFC">Break the assumption</text>
-    <text x="30" y="119" font-size="16" fill="#CBD5E1">Probe inverse operations, empty states,</text>
-    <text x="30" y="143" font-size="16" fill="#CBD5E1">bulk paths, cleanup handlers, timing</text>
-    <text x="30" y="167" font-size="16" fill="#CBD5E1">windows, and privilege boundaries.</text>
+    <text x="98" y="43" font-family="Consolas, monospace" font-size="13" letter-spacing="2" fill="#5EEAD4">STEP 02</text>
+    <text x="98" y="68" font-size="21" font-weight="700" fill="#F8FAFC">Test the weak points</text>
+    <text x="30" y="119" font-size="16" fill="#CBD5E1">Check access rules, reverse actions, bulk</text>
+    <text x="30" y="143" font-size="16" fill="#CBD5E1">features, race conditions, and unusual</text>
+    <text x="30" y="167" font-size="16" fill="#CBD5E1">account states.</text>
     <rect x="30" y="201" width="170" height="30" rx="15" fill="#0D2525"/>
-    <text x="48" y="221" font-family="Consolas, monospace" font-size="12" fill="#99F6E4">ASSUMPTION → EDGE</text>
+    <text x="48" y="221" font-family="Consolas, monospace" font-size="12" fill="#99F6E4">RULES AND EDGES</text>
   </g>
 
   <g transform="translate(868 28)" font-family="Segoe UI, Arial, sans-serif">
     <rect width="374" height="254" rx="20" fill="#121021" stroke="#A78BFA" stroke-opacity=".26"/>
     <circle cx="55" cy="48" r="28" fill="#8B5CF6" fill-opacity=".14"/>
     <path d="M41 48L50 57L70 37" stroke="#C4B5FD" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="98" y="43" font-family="Consolas, monospace" font-size="13" letter-spacing="2" fill="#C4B5FD">03 / PROVE</text>
-    <text x="98" y="68" font-size="21" font-weight="700" fill="#F8FAFC">Demonstrate the impact</text>
-    <text x="30" y="119" font-size="16" fill="#CBD5E1">Reproduce across controlled accounts,</text>
-    <text x="30" y="143" font-size="16" fill="#CBD5E1">separate behavior from impact, and</text>
-    <text x="30" y="167" font-size="16" fill="#CBD5E1">document the root cause precisely.</text>
+    <text x="98" y="43" font-family="Consolas, monospace" font-size="13" letter-spacing="2" fill="#C4B5FD">STEP 03</text>
+    <text x="98" y="68" font-size="21" font-weight="700" fill="#F8FAFC">Write a clear report</text>
+    <text x="30" y="119" font-size="16" fill="#CBD5E1">Reproduce the issue, record the evidence,</text>
+    <text x="30" y="143" font-size="16" fill="#CBD5E1">explain the real impact, and suggest a</text>
+    <text x="30" y="167" font-size="16" fill="#CBD5E1">practical fix.</text>
     <rect x="30" y="201" width="154" height="30" rx="15" fill="#1B1730"/>
-    <text x="48" y="221" font-family="Consolas, monospace" font-size="12" fill="#DDD6FE">EVIDENCE → FIX</text>
+    <text x="48" y="221" font-family="Consolas, monospace" font-size="12" fill="#DDD6FE">PROOF AND FIX</text>
   </g>
 </svg>

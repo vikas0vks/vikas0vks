@@ -5,6 +5,5 @@
   <ellipse cx="39" cy="32" rx="4" ry="9" fill="#6EE7B7" fill-opacity=".75"/>
   <ellipse cx="47" cy="32" rx="2" ry="8" fill="#6EE7B7" fill-opacity=".5"/>
   <text x="66" y="29" font-family="Segoe UI, Arial" font-size="13" font-weight="700" fill="#ECFDF5">MEDIUM</text>
-  <text x="66" y="46" font-family="Consolas, monospace" font-size="12" fill="#6EE7B7">@vikas0vks</text>
-  <path d="M266 27L272 32L266 37" stroke="#34D399" stroke-opacity=".7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="66" y="46" font-family="Consolas, monospace" font-size="12" fill="#6EE7B7">vikas0vks</text>
 </svg>

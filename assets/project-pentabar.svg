@@ -8,12 +8,12 @@
     <path d="M22 30L27 35L37 24" stroke="#FDA4AF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
   <text x="108" y="58" font-family="Segoe UI, Arial" font-size="26" font-weight="750" fill="#F8FAFC">PentaBar</text>
-  <text x="108" y="83" font-family="Consolas, monospace" font-size="13" letter-spacing="1.6" fill="#FDA4AF">MOBILE SECURITY TOOLKIT</text>
-  <text x="32" y="126" font-family="Segoe UI, Arial" font-size="16" fill="#CBD5E1">A focused web-security and penetration-testing</text>
-  <text x="32" y="151" font-family="Segoe UI, Arial" font-size="16" fill="#CBD5E1">toolkit designed for Android workflows.</text>
+  <text x="108" y="83" font-family="Consolas, monospace" font-size="13" letter-spacing="1.6" fill="#FDA4AF">ANDROID SECURITY TOOLS</text>
+  <text x="32" y="126" font-family="Segoe UI, Arial" font-size="16" fill="#CBD5E1">A set of web security tools made for Android</text>
+  <text x="32" y="151" font-family="Segoe UI, Arial" font-size="16" fill="#CBD5E1">testing workflows.</text>
   <g transform="translate(32 177)" font-family="Consolas, monospace" font-size="12">
     <rect width="82" height="28" rx="14" fill="#281116"/><text x="16" y="18" fill="#FECDD3">ANDROID</text>
     <rect x="92" width="74" height="28" rx="14" fill="#241016"/><text x="109" y="18" fill="#FDA4AF">SECURITY</text>
-    <text x="484" y="19" fill="#FDA4AF">VIEW PROJECT  ↗</text>
+    <text x="490" y="19" fill="#FDA4AF">OPEN PROJECT</text>
   </g>
 </svg>

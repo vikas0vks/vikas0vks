@@ -21,9 +21,6 @@
     <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
       <path d="M36 0H0V36" stroke="#94A3B8" stroke-opacity=".055"/>
     </pattern>
-    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="9"/>
-    </filter>
   </defs>
 
   <rect width="1280" height="380" rx="28" fill="url(#bg)"/>
@@ -35,25 +32,15 @@
   <path d="M0 315C226 242 393 344 609 280C837 213 1019 301 1280 206V380H0V315Z" fill="#10B981" fill-opacity=".035"/>
   <path d="M0 336C237 274 393 364 618 304C841 245 1041 318 1280 238" stroke="url(#accent)" stroke-opacity=".18" stroke-width="2"/>
 
-  <g transform="translate(72 73)">
-    <circle cx="114" cy="114" r="104" fill="#07110F" stroke="#34D399" stroke-opacity=".24" stroke-width="2"/>
-    <circle cx="114" cy="114" r="76" stroke="#2DD4BF" stroke-opacity=".18"/>
-    <circle cx="114" cy="114" r="48" stroke="#A78BFA" stroke-opacity=".16"/>
-    <path d="M114 24L186 53V108C186 161 156 197 114 216C72 197 42 161 42 108V53L114 24Z" fill="#0B1E19" stroke="url(#accent)" stroke-width="3"/>
-    <path d="M75 78L105 158H124L155 78H136L115 139L94 78H75Z" fill="url(#accent)"/>
-    <circle cx="177" cy="53" r="8" fill="#4ADE80"/>
-    <circle cx="177" cy="53" r="16" fill="#4ADE80" fill-opacity=".16" filter="url(#soft)"/>
-  </g>
-
-  <g transform="translate(344 62)" font-family="Segoe UI, Inter, Arial, sans-serif">
+  <g transform="translate(86 62)" font-family="Segoe UI, Inter, Arial, sans-serif">
     <g font-family="Consolas, SFMono-Regular, monospace" font-size="17" letter-spacing="2">
       <rect width="237" height="34" rx="17" fill="#0D211C" stroke="#34D399" stroke-opacity=".28"/>
       <circle cx="18" cy="17" r="4" fill="#4ADE80"/>
       <text x="32" y="22" fill="#A7F3D0">SECURITY RESEARCHER</text>
     </g>
     <text x="0" y="118" font-size="72" font-weight="760" letter-spacing="-2" fill="#F8FAFC">Vikas Maurya</text>
-    <text x="2" y="158" font-family="Consolas, SFMono-Regular, monospace" font-size="23" fill="#5EEAD4">@vikas0vks</text>
-    <text x="0" y="208" font-size="24" fill="#CBD5E1">Mapping state. Breaking assumptions. Building useful tools.</text>
+    <text x="2" y="158" font-family="Consolas, SFMono-Regular, monospace" font-size="21" fill="#5EEAD4">github.com/vikas0vks</text>
+    <text x="0" y="208" font-size="24" fill="#CBD5E1">Security research, practical tools, and clean software.</text>
 
     <g transform="translate(0 238)" font-family="Consolas, SFMono-Regular, monospace" font-size="14" letter-spacing="1.2">
       <rect width="175" height="39" rx="19.5" fill="#10221D" stroke="#34D399" stroke-opacity=".32"/>
@@ -61,7 +48,7 @@
       <rect x="188" width="169" height="39" rx="19.5" fill="#0B1E20" stroke="#2DD4BF" stroke-opacity=".32"/>
       <text x="208" y="25" fill="#99F6E4">ACCESS CONTROL</text>
       <rect x="370" width="151" height="39" rx="19.5" fill="#17142A" stroke="#A78BFA" stroke-opacity=".32"/>
-      <text x="390" y="25" fill="#DDD6FE">TOOL BUILDER</text>
+      <text x="390" y="25" fill="#DDD6FE">APP SECURITY</text>
     </g>
   </g>
 
