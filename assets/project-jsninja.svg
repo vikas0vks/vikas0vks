@@ -1,0 +1,18 @@
+<svg width="620" height="230" viewBox="0 0 620 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="620" y2="230"><stop stop-color="#10110A"/><stop offset="1" stop-color="#161208"/></linearGradient></defs>
+  <rect x="1" y="1" width="618" height="228" rx="22" fill="url(#g)" stroke="#FACC15" stroke-opacity=".28"/>
+  <circle cx="550" cy="42" r="88" fill="#FACC15" fill-opacity=".05"/>
+  <g transform="translate(32 31)">
+    <rect width="58" height="58" rx="17" fill="#FACC15" fill-opacity=".12"/>
+    <path d="M17 20L10 29L17 38M41 20L48 29L41 38M34 15L24 43" stroke="#FDE047" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="108" y="58" font-family="Segoe UI, Arial" font-size="26" font-weight="750" fill="#F8FAFC">JSNinja</text>
+  <text x="108" y="83" font-family="Consolas, monospace" font-size="13" letter-spacing="1.6" fill="#FDE047">JAVASCRIPT RECONNAISSANCE</text>
+  <text x="32" y="126" font-family="Segoe UI, Arial" font-size="16" fill="#CBD5E1">Extract URLs and sensitive patterns from JavaScript</text>
+  <text x="32" y="151" font-family="Segoe UI, Arial" font-size="16" fill="#CBD5E1">at scale for focused application-security research.</text>
+  <g transform="translate(32 177)" font-family="Consolas, monospace" font-size="12">
+    <rect width="76" height="28" rx="14" fill="#24200A"/><text x="16" y="18" fill="#FEF08A">PYTHON</text>
+    <rect x="86" width="66" height="28" rx="14" fill="#211D09"/><text x="104" y="18" fill="#FDE047">RECON</text>
+    <text x="484" y="19" fill="#FDE047">VIEW PROJECT  ↗</text>
+  </g>
+</svg>

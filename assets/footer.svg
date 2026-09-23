@@ -1,0 +1,8 @@
+<svg width="1280" height="90" viewBox="0 0 1280 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="g" x1="220" y1="45" x2="1060" y2="45" gradientUnits="userSpaceOnUse"><stop stop-color="#4ADE80"/><stop offset=".5" stop-color="#2DD4BF"/><stop offset="1" stop-color="#A78BFA"/></linearGradient></defs>
+  <rect width="1280" height="90" rx="20" fill="#070B11"/>
+  <rect x="1" y="1" width="1278" height="88" rx="19" stroke="#64748B" stroke-opacity=".22"/>
+  <path d="M62 45H256M1024 45H1218" stroke="url(#g)" stroke-opacity=".45"/>
+  <circle cx="62" cy="45" r="4" fill="#4ADE80"/><circle cx="1218" cy="45" r="4" fill="#A78BFA"/>
+  <text x="640" y="51" text-anchor="middle" font-family="Consolas, SFMono-Regular, monospace" font-size="18" letter-spacing="2" fill="#CBD5E1">MAP THE STATE  ·  BREAK THE ASSUMPTION  ·  PROVE THE IMPACT</text>
+</svg>

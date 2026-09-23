@@ -1,0 +1,74 @@
+<svg width="1280" height="380" viewBox="0 0 1280 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05080E"/>
+      <stop offset="0.52" stop-color="#081512"/>
+      <stop offset="1" stop-color="#101023"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="160" y1="70" x2="1120" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4ADE80"/>
+      <stop offset="0.52" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(310 184) rotate(14) scale(430 300)">
+      <stop stop-color="#10B981" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#10B981" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1100 30) rotate(120) scale(390 310)">
+      <stop stop-color="#8B5CF6" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#94A3B8" stroke-opacity=".055"/>
+    </pattern>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="9"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="380" rx="28" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1278" height="378" rx="27" stroke="#94A3B8" stroke-opacity=".18"/>
+  <rect x="1" y="1" width="1278" height="378" rx="27" fill="url(#grid)"/>
+  <rect width="1280" height="380" rx="28" fill="url(#glowA)"/>
+  <rect width="1280" height="380" rx="28" fill="url(#glowB)"/>
+
+  <path d="M0 315C226 242 393 344 609 280C837 213 1019 301 1280 206V380H0V315Z" fill="#10B981" fill-opacity=".035"/>
+  <path d="M0 336C237 274 393 364 618 304C841 245 1041 318 1280 238" stroke="url(#accent)" stroke-opacity=".18" stroke-width="2"/>
+
+  <g transform="translate(72 73)">
+    <circle cx="114" cy="114" r="104" fill="#07110F" stroke="#34D399" stroke-opacity=".24" stroke-width="2"/>
+    <circle cx="114" cy="114" r="76" stroke="#2DD4BF" stroke-opacity=".18"/>
+    <circle cx="114" cy="114" r="48" stroke="#A78BFA" stroke-opacity=".16"/>
+    <path d="M114 24L186 53V108C186 161 156 197 114 216C72 197 42 161 42 108V53L114 24Z" fill="#0B1E19" stroke="url(#accent)" stroke-width="3"/>
+    <path d="M75 78L105 158H124L155 78H136L115 139L94 78H75Z" fill="url(#accent)"/>
+    <circle cx="177" cy="53" r="8" fill="#4ADE80"/>
+    <circle cx="177" cy="53" r="16" fill="#4ADE80" fill-opacity=".16" filter="url(#soft)"/>
+  </g>
+
+  <g transform="translate(344 62)" font-family="Segoe UI, Inter, Arial, sans-serif">
+    <g font-family="Consolas, SFMono-Regular, monospace" font-size="17" letter-spacing="2">
+      <rect width="237" height="34" rx="17" fill="#0D211C" stroke="#34D399" stroke-opacity=".28"/>
+      <circle cx="18" cy="17" r="4" fill="#4ADE80"/>
+      <text x="32" y="22" fill="#A7F3D0">SECURITY RESEARCHER</text>
+    </g>
+    <text x="0" y="118" font-size="72" font-weight="760" letter-spacing="-2" fill="#F8FAFC">Vikas Maurya</text>
+    <text x="2" y="158" font-family="Consolas, SFMono-Regular, monospace" font-size="23" fill="#5EEAD4">@vikas0vks</text>
+    <text x="0" y="208" font-size="24" fill="#CBD5E1">Mapping state. Breaking assumptions. Building useful tools.</text>
+
+    <g transform="translate(0 238)" font-family="Consolas, SFMono-Regular, monospace" font-size="14" letter-spacing="1.2">
+      <rect width="175" height="39" rx="19.5" fill="#10221D" stroke="#34D399" stroke-opacity=".32"/>
+      <text x="20" y="25" fill="#BBF7D0">BUSINESS LOGIC</text>
+      <rect x="188" width="169" height="39" rx="19.5" fill="#0B1E20" stroke="#2DD4BF" stroke-opacity=".32"/>
+      <text x="208" y="25" fill="#99F6E4">ACCESS CONTROL</text>
+      <rect x="370" width="151" height="39" rx="19.5" fill="#17142A" stroke="#A78BFA" stroke-opacity=".32"/>
+      <text x="390" y="25" fill="#DDD6FE">TOOL BUILDER</text>
+    </g>
+  </g>
+
+  <g transform="translate(1120 296)">
+    <rect x="0" y="28" width="12" height="20" rx="3" fill="#34D399" fill-opacity=".4"/>
+    <rect x="22" y="18" width="12" height="30" rx="3" fill="#34D399" fill-opacity=".6"/>
+    <rect x="44" y="8" width="12" height="40" rx="3" fill="#2DD4BF" fill-opacity=".8"/>
+    <rect x="66" width="12" height="48" rx="3" fill="#A78BFA"/>
+  </g>
+</svg>
